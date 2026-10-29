@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" fill="none">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0354f" stop-opacity=".35"/><stop offset="1" stop-color="#f0354f" stop-opacity="0"/></linearGradient>
+  <style>
+    text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace}
+    .a{animation:mv 9s ease-in-out infinite alternate} .b{animation:mv 13s ease-in-out infinite alternate-reverse}
+    @keyframes mv{from{transform:translateX(-40px)}to{transform:translateX(40px)}}
+  </style>
+</defs>
+<g class="a"><path d="M-60 70C80 30 180 110 320 70S560 30 700 70 900 110 1060 70V150H-60Z" fill="url(#g)"/></g>
+<g class="b" opacity=".7"><path d="M-60 90C100 60 200 120 340 90S580 60 720 90 920 120 1060 90V150H-60Z" fill="url(#g)"/></g>
+<text x="500" y="88" text-anchor="middle" font-size="20" fill="#e9e9e9" letter-spacing="4">Fikir <tspan fill="#f0354f">/</tspan> Tasarım <tspan fill="#f0354f">/</tspan> Teknoloji</text>
+<text x="500" y="118" text-anchor="middle" font-size="12" fill="#7d6d70" letter-spacing="3">NEIT · DİJİTAL YARATICI STÜDYO</text>
+</svg>
