@@ -1,38 +1,95 @@
-## Hi there 👋<img width="1200" height="360" alt="header" src="https://github.com/user-attachments/assets/b80b9f3b-45cb-485a-986c-275ddb984db1" />
+<div align="center">
 
+<img src="assets/header.svg" alt="Neit-OS — Küçük fikirler. Özgün denemeler." width="100%">
 
-<!--
-**CoiF-ai/coif-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/🌐_nivyxa.com-f0354f?style=for-the-badge&labelColor=0f0b0c)](https://nivyxa.com)
+[![Instagram](https://img.shields.io/badge/Instagram-neit._.studio-f0354f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0b0c)](https://instagram.com/neit._.studio)
+[![X](https://img.shields.io/badge/X-@neitxtudio-f0354f?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0b0c)](https://x.com/neitxtudio)
 
-- <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Neit-OS — CoiF-ai</title>
-  <desc id="desc">Koyu terminal stilinde, yeşil vurgulu profil kapağı. Küçük fikirler. Özgün denemeler.</desc>
-  <rect width="1200" height="360" rx="20" fill="#0d1117"/>
-  <rect x="24" y="24" width="1152" height="312" rx="12" fill="#10161e" stroke="#293340"/>
-  <path d="M24 72H1176" stroke="#293340"/>
-  <circle cx="49" cy="48" r="5" fill="#647080"/>
-  <circle cx="69" cy="48" r="5" fill="#647080"/>
-  <circle cx="89" cy="48" r="5" fill="#a3ffb0"/>
-  <g font-family="Consolas, 'Liberation Mono', monospace">
-    <text x="114" y="53" font-size="13" fill="#99a7b7">coif-ai / workspace</text>
-    <text x="66" y="119" font-size="15" fill="#a3ffb0">&gt; hello, world_</text>
-    <text x="62" y="204" font-size="76" font-weight="700" letter-spacing="-4" fill="#f0f6fc">Neit-OS<tspan fill="#a3ffb0">.</tspan></text>
-    <text x="66" y="247" font-size="21" fill="#adb9c8">Küçük fikirler. Özgün denemeler.</text>
-    <text x="66" y="300" font-size="13" fill="#748397">COIF-AI / GITHUB</text>
-    <text x="930" y="207" font-size="76" fill="#a3ffb0" opacity="0.85">[↗]</text>
-  </g>
-  <path d="M890 285H1110M1000 100V285" stroke="#293340"/>
-  <path d="M890 285L942 233L975 251L1086 140" fill="none" stroke="#a3ffb0" stroke-width="2"/>
-  <circle cx="1086" cy="140" r="4" fill="#a3ffb0"/>
-</svg>
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+## 👋 Merhaba
+
+**NEIT**, fikri tasarıma, tasarımı çalışan bir ürüne çeviren küçük bir **dijital yaratıcı stüdyo**.
+Burada denemelerimi, yan projelerimi ve açık kaynak çalışmalarımı paylaşıyorum.
+
+> Her proje yeni bir hikâye. İhtiyacı dinle, doğru stratejiyle sana özel çözüm üret.
+
+<br>
+
+## ⚔️ Neler yapıyorum
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ Web Uygulamaları**
+Modern, ölçeklenebilir ve performans odaklı web uygulamaları.
+
+**🎮 Oyunlar**
+Etkileyici deneyimler sunan oyun projeleri.
+
+**⚙️ Otomasyon**
+İş süreçlerini kolaylaştıran akıllı otomasyon çözümleri.
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Siber Güvenlik**
+Dijital varlıkları koruyan güvenlik çözümleri.
+
+**🎨 UI/UX Tasarım**
+Kullanıcı odaklı, estetik ve işlevsel arayüz tasarımları.
+
+**🔴 Portfolyo**
+Tüm bunları tek yerde toplayan [nivyxa.com](https://nivyxa.com) sitem.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🧰 Araçlar
+
+<!-- Kullanmadıklarını sil, kullandıklarını ekle: https://shields.io -->
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-0f0b0c?style=for-the-badge&logo=html5&logoColor=f0354f)
+![CSS3](https://img.shields.io/badge/CSS3-0f0b0c?style=for-the-badge&logo=css3&logoColor=f0354f)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0b0c?style=for-the-badge&logo=javascript&logoColor=f0354f)
+![Python](https://img.shields.io/badge/Python-0f0b0c?style=for-the-badge&logo=python&logoColor=f0354f)
+![Git](https://img.shields.io/badge/Git-0f0b0c?style=for-the-badge&logo=git&logoColor=f0354f)
+![GitHub](https://img.shields.io/badge/GitHub-0f0b0c?style=for-the-badge&logo=github&logoColor=f0354f)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0f0b0c?style=for-the-badge&logo=cloudflare&logoColor=f0354f)
+
+</div>
+
+<br>
+
+## 📊 İstatistikler
+
+<div align="center">
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CoiF-ai&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0354f&icon_color=f0354f&text_color=c9d1d9&ring_color=f0354f&locale=tr" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoiF-ai&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0354f&text_color=c9d1d9&langs_count=6&locale=tr" />
+
+</div>
+
+<br>
+
+## 📬 İletişim
+
+Bir fikrin ya da projen mi var? **Birlikte hayata geçirelim.**
+
+- 🌐 Site: [nivyxa.com](https://nivyxa.com)
+- 📸 Instagram: [@neit._.studio](https://instagram.com/neit._.studio)
+- 🐦 X: [@neitxtudio](https://x.com/neitxtudio)
+
+<br>
+
+<img src="assets/footer.svg" alt="Fikir / Tasarım / Teknoloji" width="100%">
