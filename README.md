@@ -1,4 +1,4 @@
-[README_1.md](https://github.com/user-attachments/files/34147473/README_1.md)
+[README.md](https://github.com/user-attachments/files/34151523/README.md)
 <div align="center">
 
 <img src="assets/header.webp" alt="Neit-OS — Küçük fikirler. Özgün denemeler." width="100%">
@@ -6,7 +6,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/🌐_nivyxa.com-f0354f?style=for-the-badge&labelColor=0f0b0c)](https://nivyxa.com)
-[![Instagram](https://img.shields.io/badge/Instagram-neit._.studio-f0354f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0b0c)](https://instagram.com/neit._.studio)
+[![Instagram](https://img.shields.io/badge/Instagram-neit.__.studio-f0354f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0b0c)](https://instagram.com/neit._.studio)
 [![X](https://img.shields.io/badge/X-@neitxtudio-f0354f?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0b0c)](https://x.com/neitxtudio)
 
 </div>
