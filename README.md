@@ -1,6 +1,7 @@
+[README_1.md](https://github.com/user-attachments/files/34147473/README_1.md)
 <div align="center">
 
-<img src="assets/header.svg" alt="Neit-OS — Küçük fikirler. Özgün denemeler." width="100%">
+<img src="assets/header.webp" alt="Neit-OS — Küçük fikirler. Özgün denemeler." width="100%">
 
 <br>
 
